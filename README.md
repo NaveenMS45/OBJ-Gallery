@@ -2,6 +2,6 @@
 
 A gallery project based on Java Script objects.
 
-#LIVE 
+# Live
 
 -->  https://naveenms45.github.io/OBJ-Gallery
